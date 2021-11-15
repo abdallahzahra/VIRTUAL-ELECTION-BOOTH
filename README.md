@@ -13,7 +13,7 @@
    
    ![VIRTUAL ELECTION BOOTH](https://user-images.githubusercontent.com/53020530/141849514-46cc7398-7794-45d4-b23f-2a3647153197.jpeg)
 
-#Developer-Abdallah-Zahra
-#Mailbox: abdallahzahra9090@gmail.com
-#Video for code With running  :
+*#Developer-Abdallah-Zahra*
+*#Mailbox: abdallahzahra9090@gmail.com*
+*#Video for code With running  :*
    
